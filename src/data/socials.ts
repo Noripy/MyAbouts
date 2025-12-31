@@ -6,7 +6,7 @@ import IconTwitter from "../components/icons/twitter.astro";
 export const SOCIALS = [
   {
     name: "Github",
-    url: "https://github.com/thevrus",
+    url: "https://github.com/Noripy",
     icon: IconGithub,
   },
   {
@@ -16,12 +16,7 @@ export const SOCIALS = [
   },
   {
     name: "Twitter",
-    url: "https://twitter.com/rusin_vadim",
+    url: "https://x.com/Noripy_tec",
     icon: IconTwitter,
-  },
-  {
-    name: "Dribbble",
-    url: "https://dribbble.com/iamvr",
-    icon: IconDribbble,
   },
 ];
